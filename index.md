@@ -10,4 +10,4 @@
 
 
 ## Team Resources
-* [*Design Document*](https://docs.google.com/document/d/17v2bZVIl01x1x3LMM5GwDfaFUdmsQX9AU4gWlhw2sLs/edit?usp=sharing)
+* [**Design Document**](https://docs.google.com/document/d/17v2bZVIl01x1x3LMM5GwDfaFUdmsQX9AU4gWlhw2sLs/edit?usp=sharing)
