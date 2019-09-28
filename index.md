@@ -3,8 +3,9 @@
 ### Week 2 (9.5-9.11)
 ### Week 3 (9.12-9.18)
 ### Week 4 (9.19-9.25)
+* Finished 2nd project pitch presentation ppt: [Link](https://docs.google.com/presentation/d/1E8LGEj0UPF8qesy_zNgi-hjIeKeVihfnRKT3FRUYJCk/edit#slide=id.g1f87997393_0_782)
 ### Week 5 (9.26-10.3)
-Received Oculus Rift.
+* Received Oculus Rift.
 
 
 ## Team Resources
