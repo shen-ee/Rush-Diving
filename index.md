@@ -5,8 +5,9 @@
 ### Week 4 (9.19-9.25)
 * Finished 2nd project pitch presentation ppt: [Link](https://docs.google.com/presentation/d/1E8LGEj0UPF8qesy_zNgi-hjIeKeVihfnRKT3FRUYJCk/edit#slide=id.g1f87997393_0_782)
 ### Week 5 (9.26-10.3)
+* Fnished Review for EFPL_VRB: [Link](https://piazza.com/class/jv4uff58gjj3se?cid=96)
 * Received Oculus Rift.
 
 
 ## Team Resources
-* [Design Document](https://docs.google.com/document/d/17v2bZVIl01x1x3LMM5GwDfaFUdmsQX9AU4gWlhw2sLs/edit?usp=sharing)
+* [*Design Document*](https://docs.google.com/document/d/17v2bZVIl01x1x3LMM5GwDfaFUdmsQX9AU4gWlhw2sLs/edit?usp=sharing)
