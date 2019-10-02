@@ -6,6 +6,7 @@ What have we achieved:
 * Finished Grabbing Object Tutorial following: [**Link**](https://www.youtube.com/watch?v=sxvKGVDmYfY&t=61s)
 
 What are the challenges we are facing:
+* Do not know how to solve the problem of task division, considering that there is only one debugging equipment.
 
 What we are planning to do next:
 
