@@ -12,4 +12,4 @@
 
 
 ## Team Resources
-* Design Document: [**Link**](https://docs.google.com/document/d/17v2bZVIl01x1x3LMM5GwDfaFUdmsQX9AU4gWlhw2sLs/edit?usp=sharing) [**Download**](RushDiving-disign doc.docx)
+* Design Document: [**Link**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) [**Download**](RushDiving-disign doc.docx)
