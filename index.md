@@ -14,6 +14,15 @@ What we are planning to do next:
 * Decide how we work collaboratively
 * Come up with a detailed development schedule
 
+### Dev Week 2 (10.2-10.9)
+What have we achieved:
+* Purchased two assets: [**Horizion[ON]**](https://assetstore.unity.com/packages/tools/terrain/horizon-on-31861)|[**TinyDragonMonster**](https://assetstore.unity.com/packages/3d/characters/tinydragonmonster-143747)
+* a new demo video:
+
+What are the challenges we are facing:
+
+What we are planning to do next:
+
 ## Team Resources
 * Design Document: [**Link**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) [**Download**](RushDiving-disign doc.docx)
 * 2nd project pitch presentation ppt: [**Link**](https://docs.google.com/presentation/d/1E8LGEj0UPF8qesy_zNgi-hjIeKeVihfnRKT3FRUYJCk/edit#slide=id.g1f87997393_0_782)
