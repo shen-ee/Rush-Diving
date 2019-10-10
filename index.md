@@ -4,7 +4,7 @@ What have we achieved:
 * Fnished Review for EFPL_VRB: [**Piazza**](https://piazza.com/class/jv4uff58gjj3se?cid=96)
 * Revised Design Document: [**Google Doc**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) 
 * Finished Grabbing Object Tutorial following: [**Youtube**](https://www.youtube.com/watch?v=sxvKGVDmYfY&t=61s)
-* Completed simple beat saber following: [**Youtube**](https://www.youtube.com/watch?v=gh4k0Q1Pl7E)|[**Github**](https://github.com/ImmersiveAtUva/HooHacks-Beat-Saber)
+* Completed simple beat saber following: [**Youtube**](https://www.youtube.com/watch?v=gh4k0Q1Pl7E),[**Github**](https://github.com/ImmersiveAtUva/HooHacks-Beat-Saber)
 * Built a simple sky diving demo(contains one land, two layers of cloud): [**Google Drive**](https://drive.google.com/file/d/1syMrh9E1hZDOOAQO9LhWwBZP24k_Fuzm/view?usp=sharing)
 
 What are the challenges we are facing:
@@ -16,7 +16,7 @@ What we are planning to do next:
 
 ### Dev Week 2 (10.3-10.9)
 What have we achieved:
-* Purchased two assets: [**Horizion[ON]**](https://assetstore.unity.com/packages/tools/terrain/horizon-on-31861)|[**TinyDragonMonster**](https://assetstore.unity.com/packages/3d/characters/tinydragonmonster-143747)
+* Purchased two assets: [**Horizion[ON]**](https://assetstore.unity.com/packages/tools/terrain/horizon-on-31861),[**TinyDragonMonster**](https://assetstore.unity.com/packages/3d/characters/tinydragonmonster-143747)
 * a new demo video:
 
 What are the challenges we are facing:
