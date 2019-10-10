@@ -3,8 +3,8 @@
 What have we achieved:
 * Fnished Review for EFPL_VRB: [**Link**](https://piazza.com/class/jv4uff58gjj3se?cid=96)
 * Revised Design Document: [**Link**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) 
-* Finished Grabbing Object Tutorial following: [**Link**](https://www.youtube.com/watch?v=sxvKGVDmYfY&t=61s)
-* Completed simple beat saber following: [**Link**](https://www.youtube.com/watch?v=gh4k0Q1Pl7E&list=PL4pxX_WrnS5PPW4IpbqHKf3fgAmXGGWUZ)
+* Finished Grabbing Object Tutorial following: [**Youtube**](https://www.youtube.com/watch?v=sxvKGVDmYfY&t=61s)
+* Completed simple beat saber following: [**Youtube**](https://www.youtube.com/watch?v=gh4k0Q1Pl7E)|[**Github**](https://github.com/ImmersiveAtUva/HooHacks-Beat-Saber)
 * Built a simple sky diving demo(contains one land, two layers of cloud): [**Link**](https://drive.google.com/file/d/1syMrh9E1hZDOOAQO9LhWwBZP24k_Fuzm/view?usp=sharing)
 
 What are the challenges we are facing:
