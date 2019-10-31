@@ -25,17 +25,26 @@ What we are planning to do next:
 
 ### Dev Week 3 (10.10-10.16)
 What have we achieved:
-Game story confirmed. From a manipulate mosquito biting game to a landing game.
-Change the main character to human
+Game story confirmed: 
+  Instead of making a game that maniqulate how mosquito bites to a landing game.
+Switch the main character to human
+
 
 What are the challenges we are facing:
 Changing the character from mosquito to human being
-Decide what kind of background and storyline/mechanics
+Decide what background scenes theme and storyline/mechanics
+How to win this game and make player feel successful
 
 What we are planning to do next:
+Checking all suitable assets.
+Group discussion for all possible mechanics and decide the main ones.
+Update Github files and make sure everyone has same version of Unity
 
 ### Dev Week 4 (10.17-10.23)
 What have we achieved:
+Scene usage confirmed
+Basic machnics has been deiced
+Landing first person view created
 
 What are the challenges we are facing:
 
