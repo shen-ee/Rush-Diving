@@ -27,7 +27,7 @@ What we are planning to do next:
 What have we achieved:
 
 * Game story confirmed: 
-  Instead of making a game that maniqulate how mosquito bites to a landing game.
+  Instead of making a game that manipulated how mosquito bites to a landing game.
 * Switch the main character to human
 
 
@@ -35,24 +35,24 @@ What are the challenges we are facing:
 
 * Changing the character from mosquito to human being
 * Decide what background scenes theme and storyline/mechanics
-* How to win this game and make player feel successful
+* How to win this game and make the player feel successful
 
 What we are planning to do next:
 
 * Checking all suitable assets.
 * Group discussion for all possible mechanics and decide the main ones.
-* Update Github files and make sure everyone has same version of Unity
+* Update Github files and make sure everyone has exactly the same version of Unity
 
 ### Dev Week 4 (10.17-10.23)
 What have we achieved:
 
 * Scene usage confirmed
-* Basic machnics has been deiced
-* Landing first person view created
+* Basic mechanics has been deiced
+* Landing first-person view created
 
 What are the challenges we are facing:
 
-* Dizzness feeling while landing
+* Dizziness feeling while landing
 * Add a magic flying mat(or something else) to land, how to make it look natural (Color, Motion, looks from first sight)
 * Finish building up the whole scene
 
@@ -69,18 +69,18 @@ Starting scene set up and tested
 
 * Smoothed turning motion in the sky
 * Win result page finished
-* Random barrier model found and discussed about how they should show up and hurt player
+* Random barrier model found and discussed how they should show up and hurt player
 
 What are the challenges we are facing:
 
 * Frequency of barriers 
-* How barriers should show up and how we avoid them (make the game more chanlleging at the end)
+* How barriers should show up and how we avoid them (make the game more challenging at the end)
 
 What we are planning to do next:
 
 * Set up everything before mid-term
-* Listening to advice for mates after presentation and advice for random people played this game
-* Group Discussion after mid-term presentation
+* Listening to advice for mates and random people who played this game after presentation
+* Group Discussion based on received advice after the mid-term presentation
 
 
 ## Team Resources
