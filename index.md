@@ -23,6 +23,27 @@ What are the challenges we are facing:
 
 What we are planning to do next:
 
+### Dev Week 3 (10.10-10.16)
+What have we achieved:
+
+What are the challenges we are facing:
+
+What we are planning to do next:
+
+### Dev Week 4 (10.17-10.23)
+What have we achieved:
+
+What are the challenges we are facing:
+
+What we are planning to do next:
+
+### Dev Week 5 (10.14-10.30)
+What have we achieved:
+
+What are the challenges we are facing:
+
+What we are planning to do next:
+
 ## Team Resources
 * Design Document: [**Link**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) [**Download**](RushDiving-disign doc.docx)
 * 2nd project pitch presentation ppt: [**Link**](https://docs.google.com/presentation/d/1E8LGEj0UPF8qesy_zNgi-hjIeKeVihfnRKT3FRUYJCk/edit#slide=id.g1f87997393_0_782)
