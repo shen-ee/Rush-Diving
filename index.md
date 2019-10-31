@@ -26,61 +26,52 @@ What we are planning to do next:
 ### Dev Week 3 (10.10-10.16)
 What have we achieved:
 
-* Game story confirmed: 
-  Instead of making a game that manipulated how mosquito bites to a landing game.
-* Switch the main character to human
-
+* Settled theme of the game environment and basic gameplay mechanisms. 
+* Created a short diving experience for testing.
 
 What are the challenges we are facing:
 
-* Changing the character from mosquito to human being
-* Decide what background scenes theme and storyline/mechanics
-* How to win this game and make the player feel successful
-
-What we are planning to do next:
-
-* Checking all suitable assets.
-* Group discussion for all possible mechanics and decide the main ones.
-* Update Github files and make sure everyone has exactly the same version of Unity
-
-### Dev Week 4 (10.17-10.23)
-What have we achieved:
-
-* Scene usage confirmed
-* Basic mechanics has been deiced
-* Landing first-person view created
-
-What are the challenges we are facing:
-
-* Dizziness feeling while landing
-* Add a magic flying mat(or something else) to land, how to make it look natural (Color, Motion, looks from first sight)
-* Finish building up the whole scene
+* Dizziness during falling.
 
 What we are planning to do next:
 
 * Group Discussion for starting page
-* How to make it look natural and smoother while turning in the sky
+* Improve the control for turning.
 * How to win this game and make the final win result page
+
+### Dev Week 4 (10.17-10.23)
+What have we achieved:
+
+* Adjusted body position during falling to reduce dizziness.
+* Added control for turning left and right.
+
+What are the challenges we are facing:
+
+* The control for turning is not natural compare to real flying motion.
+* The dizziness during falling is still not fully resolved.
+
+What we are planning to do next:
+
+* Improve turning control.
+* Add obstacle spawner and collision events.
+* Add UI for start/pause/gameover.
 
 ### Dev Week 5 (10.24-10.30)
 What have we achieved:
 
 Starting scene set up and tested
 
-* Smoothed turning motion in the sky
-* Win result page finished
-* Random barrier model found and discussed how they should show up and hurt player
+* Turning control improved. It's now more realistic to real flying experience.
+* Added rock spawner and collision events. Currently, the game is over if player collides with one of the rocks. At this point it's for testing purpose and will be subject to change in the future. 
+* Fixed a memory usage issue when loading start menu.
 
 What are the challenges we are facing:
-
-* Frequency of barriers 
-* How barriers should show up and how we avoid them (make the game more challenging at the end)
+* The randomization in rock spawner needs to be improved -- e.g. respawn frequency and rock rotation. Some times the rocks behaves weirdly.
 
 What we are planning to do next:
 
-* Set up everything before mid-term
-* Listening to advice for mates and random people who played this game after presentation
-* Group Discussion based on received advice after the mid-term presentation
+* Add more obstacles (e.g. monsters) and related events into the game.
+* Add UI for players status.
 
 
 ## Team Resources
