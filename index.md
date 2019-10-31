@@ -16,18 +16,21 @@ What we are planning to do next:
 
 ### Dev Week 2 (10.3-10.9)
 What have we achieved:
-* Purchased two assets: [**Horizion[ON]**](https://assetstore.unity.com/packages/tools/terrain/horizon-on-31861),[**TinyDragonMonster**](https://assetstore.unity.com/packages/3d/characters/tinydragonmonster-143747)
+* We researched possible assets and decided to use the following: [**Horizion[ON]**](https://assetstore.unity.com/packages/tools/terrain/horizon-on-31861),[**TinyDragonMonster**](https://assetstore.unity.com/packages/3d/characters/tinydragonmonster-143747)
+* Created a simple vertical free-falling for testing assets and also as a Unity practice.
 * A new demo video:[**Google Drive**](https://drive.google.com/a/usc.edu/file/d/1rl_wLszay-dfrV7YKDHo7zEqufTeJlkf/view?usp=sharing)
 
 What are the challenges we are facing:
+* Set up development environment.
 
 What we are planning to do next:
+* Create a test landing experience according to our design.
 
 ### Dev Week 3 (10.10-10.16)
 What have we achieved:
 
 * Settled theme of the game environment and basic gameplay mechanisms. 
-* Created a short diving experience for testing.
+* Created a short landing experience for testing.
 
 What are the challenges we are facing:
 
@@ -67,6 +70,7 @@ Starting scene set up and tested
 
 What are the challenges we are facing:
 * The randomization in rock spawner needs to be improved -- e.g. respawn frequency and rock rotation. Some times the rocks behaves weirdly.
+* There's a inconsistency of Unity versions between the PC in SCA lab and our PC at home, which brings difficulty to our developement in the lab.
 
 What we are planning to do next:
 
