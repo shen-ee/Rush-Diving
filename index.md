@@ -73,9 +73,15 @@ Starting scene set up and tested
 
 What are the challenges we are facing:
 
-
+* Frequency of barriers 
+* How barriers should show up and how we avoid them (make the game more chanlleging at the end)
 
 What we are planning to do next:
+
+* Set up everything before mid-term
+* Listening to advice for mates after presentation and advice for random people played this game
+* Group Discussion after mid-term presentation
+
 
 ## Team Resources
 * Design Document: [**Link**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) [**Download**](RushDiving-disign doc.docx)
