@@ -34,7 +34,7 @@ What have we achieved:
 
 What are the challenges we are facing:
 
-* Dizziness during falling.
+* Dizziness during fall.
 
 What we are planning to do next:
 
@@ -64,18 +64,20 @@ What have we achieved:
 
 Starting scene set up and tested
 
-* Turning control improved. It's now more realistic to real flying experience.
+* Turning control improved. It's now more realistic to real flying experience. (Previously using controller button, now using
+controller relative position)
 * Added rock spawner and collision events. Currently, the game is over if player collides with one of the rocks. At this point it's for testing purpose and will be subject to change in the future. 
 * Fixed a memory usage issue when loading start menu.
 
 What are the challenges we are facing:
 * The randomization in rock spawner needs to be improved -- e.g. respawn frequency and rock rotation. Some times the rocks behaves weirdly.
-* There's a inconsistency of Unity versions between the PC in SCA lab and our PC at home, which brings difficulty to our developement in the lab.
+* There's an inconsistency of Unity versions between the PC in SCA lab and our PC at home, which brings difficulty to our developement in the lab.
 
 What we are planning to do next:
 
 * Add more obstacles (e.g. monsters) and related events into the game.
 * Add UI for players status.
+* Communicate with lab coordinator to solve the version problems.
 
 
 ## Team Resources
