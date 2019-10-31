@@ -25,8 +25,12 @@ What we are planning to do next:
 
 ### Dev Week 3 (10.10-10.16)
 What have we achieved:
+Game story confirmed. From a manipulate mosquito biting game to a landing game.
+Change the main character to human
 
 What are the challenges we are facing:
+Changing the character from mosquito to human being
+Decide what kind of background and storyline/mechanics
 
 What we are planning to do next:
 
