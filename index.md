@@ -37,7 +37,7 @@ What are the challenges we are facing:
 
 What we are planning to do next:
 
-### Dev Week 5 (10.14-10.30)
+### Dev Week 5 (10.24-10.30)
 What have we achieved:
 
 What are the challenges we are facing:
