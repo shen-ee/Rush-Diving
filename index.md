@@ -100,6 +100,13 @@ What we are planning to do next:
 * Fix the Fog & background story related to dragon/landing story or change game mechanics. (Discuss needed)
 * Group discussion & discuss with professor, make a task list based on priority
 
+### Dev Week 6 (11.7-11.13)
+What have we achieved:
+
+What are the challenges we are facing:
+
+What we are planning to do next:
+
 
 ## Team Resources
 * Design Document: [**Link**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) [**Download**](RushDiving-disign doc.docx)
