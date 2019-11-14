@@ -79,6 +79,27 @@ What we are planning to do next:
 * Add UI for players status.
 * Communicate with lab coordinator to solve the version problems.
 
+### Dev Week 6 (10.31-11.6)
+What have we achieved:
+
+Starting scene set up and tested
+
+* UI is up for player status.
+* More obstacles added and refine the background story.
+* Making Progress on fixing rocks behavior and respawn frequency.
+
+What are the challenges we are facing:
+* Based on Mid-term feedback, should we remove the river in background? Removed it might make the scene looks bored.
+* How to fix Dragons spawning behaviors and fading effect for stone obstacles.
+* Should we keep using carpet or something else that could make the game better?
+* Why we need to land? Minor changes for price on ground while landing different spots or other ideas.
+
+What we are planning to do next:
+
+* Add audio & sound effects.
+* Fix the Fog & background story related to dragon/landing story or change game mechanics. (Discuss needed)
+* Group discussion & discuss with professor, make a task list based on priority
+
 
 ## Team Resources
 * Design Document: [**Link**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) [**Download**](RushDiving-disign doc.docx)
