@@ -126,9 +126,19 @@ What we are planning to do next:
 ### Dev Week 9 (11.27-12.3)
 What have we achieved:
 
+
+
 What are the challenges we are facing:
 
-What we are planning to do next:
+Not enough time to make changes
+Too much feedback, make decisions on which we shouold achieve
+
+
+What we are planning to do next: 
+
+Prepare for Final Presentation
+Upload all required files
+Final check on everything & Tech check
 
 
 ## Team Resources
