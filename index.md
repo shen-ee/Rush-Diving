@@ -107,6 +107,29 @@ What are the challenges we are facing:
 
 What we are planning to do next:
 
+### Dev Week 7 (11.14-11.20)
+What have we achieved:
+
+What are the challenges we are facing:
+
+What we are planning to do next:
+
+
+### Dev Week 8 (11.21-11.27)
+What have we achieved:
+
+What are the challenges we are facing:
+
+What we are planning to do next:
+
+
+### Dev Week 9 (11.27-12.3)
+What have we achieved:
+
+What are the challenges we are facing:
+
+What we are planning to do next:
+
 
 ## Team Resources
 * Design Document: [**Link**](https://docs.google.com/document/d/19N5vguExpMt9sz03MD6xMC7tzFUjFZfkoN-_O45qTAE/edit) [**Download**](RushDiving-disign doc.docx)
