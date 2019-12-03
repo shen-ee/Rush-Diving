@@ -103,25 +103,57 @@ What we are planning to do next:
 ### Dev Week 6 (11.7-11.13)
 What have we achieved:
 
+* Background music added
+* Removed Dragon
+
 What are the challenges we are facing:
 
+* Looks unreal with only rock
+* Rock's mechanics/ Moving Directions
+* The way of winning the game should be adjusted
+
 What we are planning to do next:
+
+* Make Rug looks realistic with air-flow effects.
+* Add some cloud in the sky with certain density 
+* The way rock shows up in sky (gradually)
 
 ### Dev Week 7 (11.14-11.20)
 What have we achieved:
 
+* Rug has air-flow effect
+* Rock won't show up all of a sudden
+* Add cloud on the way down to ground
+
 What are the challenges we are facing:
 
+* Add more magic related elements
+* Cloud density and frequency adjustment
+* Should we add birds, if so, what's the frequency and height for those
+
 What we are planning to do next:
+
+* Change rock to magic orbs
+* Add birds with certain height requirements & low frequency
+* Add a landing point to ground (winning spot)
 
 
 ### Dev Week 8 (11.21-11.27)
 What have we achieved:
 
+* Red orbs replaces all rocks
+* 
+
+
 What are the challenges we are facing:
+
+* Adjust Orbs Speed
+* How should we win this game
 
 What we are planning to do next:
 
+* Game testing 
+* List all bugs and then fix & test
 
 ### Dev Week 9 (11.27-12.3)
 What have we achieved:
@@ -130,15 +162,15 @@ What have we achieved:
 
 What are the challenges we are facing:
 
-Not enough time to make changes
-Too much feedback, make decisions on which we shouold achieve
+* Not enough time to make changes
+* Too much feedback, make decisions on which we shouold achieve
 
 
 What we are planning to do next: 
 
-Prepare for Final Presentation
-Upload all required files
-Final check on everything & Tech check
+* Prepare for Final Presentation
+* Upload all required files
+* Final check on everything & Tech check
 
 
 ## Team Resources
