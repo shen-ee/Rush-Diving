@@ -142,13 +142,14 @@ What we are planning to do next:
 What have we achieved:
 
 * Red orbs replaces all rocks
-* 
-
+* Adjust red orbs speed 
+* Added magic circle as landing point and margic circle keep shooting orbs to attach player
 
 What are the challenges we are facing:
 
-* Adjust Orbs Speed
-* How should we win this game
+* How to adjust Orbs Speed and make it more playable
+* Add magician in the circle or not 
+* weapon system usage
 
 What we are planning to do next:
 
@@ -158,7 +159,9 @@ What we are planning to do next:
 ### Dev Week 9 (11.27-12.3)
 What have we achieved:
 
-
+* Finalized game content and orbs speed
+* Add magician in the circle (final target)
+* Add cloud on the way, make the game more chanllenging.
 
 What are the challenges we are facing:
 
