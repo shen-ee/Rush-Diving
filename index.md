@@ -182,5 +182,7 @@ What we are planning to do next:
 
 
 ## Team Resources
+* Youtube Trailer: [**Link**](https://youtu.be/qdxCSkvDooc)
+* Project Poster: [**Link**](https://drive.google.com/file/d/12rktB7hjtSYu1triluBma4h6OnaOkDgs/view?usp=sharing)
 * Design Document: [**Link**](https://docs.google.com/document/d/1VmEtvxcvcz1u9Pe06WFfu_Lpwl2yv5MONFB_Op7wro0/edit) 
 * 2nd project pitch presentation ppt: [**Link**](https://docs.google.com/presentation/d/1E8LGEj0UPF8qesy_zNgi-hjIeKeVihfnRKT3FRUYJCk/edit#slide=id.g1f87997393_0_782)
