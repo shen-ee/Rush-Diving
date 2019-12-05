@@ -141,7 +141,8 @@ What we are planning to do next:
 ### Dev Week 8 (11.21-11.27)
 What have we achieved:
 
-* Red orbs replaces all rocks
+* Red orbs replaces all rock objects
+* Add some magical elements
 * Adjust red orbs speed 
 * Added magic circle as landing point and margic circle keep shooting orbs to attach player
 
@@ -149,24 +150,28 @@ What are the challenges we are facing:
 
 * How to adjust Orbs Speed and make it more playable
 * Add magician in the circle or not 
-* weapon system usage
+* Cloud transparency
+* Design Poster/Website/Trailer draft before finalizing
 
 What we are planning to do next:
 
 * Game testing 
 * List all bugs and then fix & test
+* Add more objects to attack user
 
 ### Dev Week 9 (11.27-12.3)
 What have we achieved:
 
 * Finalized game content and orbs speed
-* Add magician in the circle (final target)
+* Add multiple magic towers that attacks user
 * Add cloud on the way, make the game more chanllenging.
+* Reach the magic circle to success
 
 What are the challenges we are facing:
 
 * Not enough time to make changes
-* Too much feedback, make decisions on which we shouold achieve
+* Make decisions on which we shouold achieve & Final fix/test after Tech Check
+* Gesture adjusting the target direction (Increase sensitivity)
 
 
 What we are planning to do next: 
